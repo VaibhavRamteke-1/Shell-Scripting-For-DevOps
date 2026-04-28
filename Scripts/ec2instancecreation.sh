@@ -9,9 +9,9 @@ set -euo pipefail
 
 AMI_ID="ami-06e3c045d79fd65d9"
 INSTANCE_TYPE="t3.micro"
-KEY_NAME="shell-scripting"
-SECURITY_GROUP="sg-080332f5917ed0503"
-SUBNET_ID="subnet-05f3cd67fd2c6c142"
+KEY_NAME="shell_accessKeys.csv"
+SECURITY_GROUP="sg-080332f5917ed01010"
+SUBNET_ID="subnet-05f3cd67fd2c6c157"
 REGION="us-east-2"
 INSTANCE_NAME="DevOps-Servers"
 
